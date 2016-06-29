@@ -2,12 +2,9 @@ div {
   width: 2rem;
   height: 2rem;
   margin: .5rem;
+  border-radius: 50%;
 }
 
-div.blue {
+div.switch {
     background-color: blue;
-}
-
-div.green {
-    background-color: green;
 }
